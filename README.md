@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Linconl Pamponet
-Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da Computação na Estácio de Sá.No momento estou aprendendo Python e SQL Server para Ciências de Dados. Sou fascinado pela área de tecnlogia e procuro evoluir o máximo.
+Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da Computação na Estácio de Sá.No momento estou aprendendo Python e SQL Server para Ciências de Dados. Sou fascinado pela área de tecnologia e procuro evoluir o máximo.
 
 ## Redes sociais
 
