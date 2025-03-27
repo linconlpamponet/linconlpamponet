@@ -1,7 +1,7 @@
 ## Olá, Eu sou o Linconl Pamponet
 Olá , eu sou Linconl Pamponet e estou no terceiro ano na faculdade de Ciências da Computação e estou aprendendo Python e SQL para Ciências de Dados.
 
-##Redes sociais
+## Redes sociais
 
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
