@@ -4,7 +4,7 @@
 
 ![Linconl GitHub stats](https://github-readme-stats.vercel.app/api?username=linconl&show_icons=true&theme=radical)
 
-## tecnologias que eu uso
+## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
 <img align="center" alt=pyhon src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
