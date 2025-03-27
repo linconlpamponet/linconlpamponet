@@ -2,8 +2,6 @@
 
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
-![Linconl GitHub stats](https://github-readme-stats.vercel.app/api?username=linconl&show_icons=true&theme=radical)
-
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
@@ -15,6 +13,8 @@
 
 
 </div>
+
+![Linconl GitHub stats](https://github-readme-stats.vercel.app/api?username=linconl&show_icons=true&theme=radical)
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linconlpamponet/linconl/output/github-contribution-grid-snake-dark.svg">
