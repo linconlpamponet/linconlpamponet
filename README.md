@@ -2,6 +2,7 @@
 
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
+
 ## Tecnologias que utilizo
 
 <div style="display: inline_block"><br/>
