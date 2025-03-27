@@ -4,7 +4,15 @@
 
 
 ## Tecnologias que utilizo
-
+<img 
+    align="left" 
+    alt="PYTHON"
+    title="PYTHON" 
+    width="30px" 
+    style="padding-right: 10px;" 
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+   
 <img 
     align="left" 
     alt="HTML"
