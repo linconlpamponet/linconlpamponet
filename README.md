@@ -27,12 +27,14 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
 
 <img 
     align="left" 
-    alt="ANACONDA"
-    title="ANACONDA" 
+    alt="SQL"
+    title="SQL" 
     width="30px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" 
-     />     
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg"
+/>
+
+   
 <img 
     align="left" 
     alt="SELENIUM"
