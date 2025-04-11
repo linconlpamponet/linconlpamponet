@@ -90,8 +90,14 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
 />
 <br></br>
 
-
-![Linconl GitHub stats](https://github-readme-stats.vercel.app/api?username=linconl&show_icons=true&theme=radical)
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=linconlpamponet&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/linconlpamponet/linconlpamponet/output/github-contribution-grid-snake-dark.svg">
