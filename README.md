@@ -43,7 +43,24 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"           
 />
 
-   
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+        />
+
+<img 
+    align="left" 
+    alt="Plotly"
+    title="Plotly" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
+ />
+          
 <img 
     align="left" 
     alt="SELENIUM"
@@ -52,15 +69,6 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
     style="padding-right: 10px;" 
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
 />
-
-<img 
-    align="left" 
-    alt="Pandas"
-    title="Pandas" 
-    width="30px" 
-    style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-          />
 
 <img 
     align="left" 
