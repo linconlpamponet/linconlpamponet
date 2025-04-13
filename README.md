@@ -6,7 +6,7 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
 
-## Tecnologias que utilizo
+## Tecnologias
 <img 
     align="left" 
     alt="PYTHON"
