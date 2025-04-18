@@ -52,6 +52,15 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
         />
 
+  <img 
+    align="left" 
+    alt="Matplolib"
+    title="Matplolib" 
+    width="30px" 
+    style="padding-right: 10px;" 
+     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg"
+/>
+
 <img 
     align="left" 
     alt="Plotly"
