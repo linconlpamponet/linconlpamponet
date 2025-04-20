@@ -50,7 +50,7 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
     width="30px" 
     style="padding-right: 10px;" 
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
-        />
+ />
 
   <img 
     align="left" 
@@ -58,8 +58,8 @@ Me Linconl Pamponet e estou cursando o terceiro ano na faculdade de Ciências da
     title="Matplolib" 
     width="30px" 
     style="padding-right: 10px;" 
- 
-/>
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
+ />
 
 <img 
     align="left" 
