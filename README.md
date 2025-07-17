@@ -1,12 +1,12 @@
 ## Olá, Eu sou o Linconl Pamponet
-Meu nome é Linconl Pamponet e estou no terceiro ano da faculdade de Ciências da Computação na Estácio de Sá. Atualmente, aprofundo meus conhecimentos em Python e SQL Server, com foco em Ciência de Dados. Sou apaixonado por tecnologia e estou sempre em busca de evolução e aprendizado contínuo.
+Meu nome é Linconl Pamponet e façoe Engenharia de Computação na Unifecaf. Atualmente, aprofundo meus conhecimentos em Python e SQL Server, com foco em Ciência de Dados. Sou apaixonado por tecnologia e estou sempre em busca de evolução e aprendizado contínuo.
 
 ## Redes sociais
 
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
 
-## Tecnologias
+## Tecnologias que esou aprendendo
 <img 
     align="left" 
     alt="PYTHON"
@@ -52,15 +52,6 @@ Meu nome é Linconl Pamponet e estou no terceiro ano da faculdade de Ciências d
      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
  />
 
-  <img 
-    align="left" 
-    alt="Matplolib"
-    title="Matplolib" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" 
- />
-
 <img 
     align="left" 
     alt="Plotly"
@@ -70,14 +61,6 @@ Meu nome é Linconl Pamponet e estou no terceiro ano da faculdade de Ciências d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
  />
           
-<img 
-    align="left" 
-    alt="SELENIUM"
-    title="SELENIUM" 
-    width="30px" 
-    style="padding-right: 10px;" 
-   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg"
-/>
 
 <img 
     align="left" 
@@ -88,23 +71,6 @@ Meu nome é Linconl Pamponet e estou no terceiro ano da faculdade de Ciências d
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
           />
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-   
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
 <br></br>
 ##  Estatísticas
 <p>
