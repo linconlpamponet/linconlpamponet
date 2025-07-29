@@ -6,7 +6,7 @@ Meu nome é Linconl Pamponet e faço Engenharia de Computação na Unifecaf. Atu
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
 
-## Tecnologias que esou aprendendo
+## Tecnologias que estou aprendendo
 <img 
     align="left" 
     alt="PYTHON"
