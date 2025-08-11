@@ -1,5 +1,5 @@
 ## Olá, Eu sou o Linconl Pamponet
-Meu nome é Linconl Pamponet e faço Engenharia de Computação na Unifecaf. Atualmente, aprofundo meus conhecimentos em Python e SQL Server, com foco em Ciência de Dados. Sou apaixonado por tecnologia e estou sempre em busca de evolução e aprendizado contínuo.
+Meu nome é Linconl Pamponet e faço Ciência de Computação na Anhembi Morumbi. Atualmente, aprofundo meus conhecimentos em Python e SQL Server, com foco em Ciência de Dados. Sou apaixonado por tecnologia e estou sempre em busca de evolução e aprendizado contínuo.
 
 ## Redes sociais
 
