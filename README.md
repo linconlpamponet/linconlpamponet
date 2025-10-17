@@ -58,7 +58,7 @@ Sou estudante de Engenharia de Computação na UniFECAF. Atualmente, aprofundo m
     title="Numpy" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg"
  />
 
    <img 
