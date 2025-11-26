@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
 
-## Tecnologias que utilizo
+## Habilidades
 <img 
     align="left" 
     alt="PYTHON"
