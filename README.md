@@ -35,11 +35,19 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
  />
     <img 
     align="left" 
+    alt="React Native"
+    title="React Native" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://devicon-website.vercel.app/api/figma/original.svg"
+/>
+    <img 
+    align="left" 
     alt="Spring"
     title="Spring" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/figma/original.svg"
+    src="https://devicon-website.vercel.app/api/react/original.svg"
 />
 <img 
     align="left" 
