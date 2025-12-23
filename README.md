@@ -2,7 +2,7 @@
 Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em princípios computacionais. Atualmente, estou focado em Ciência de Dados, aprofundando minhas habilidades em Python (para análise e modelagem) e SQL Server (para manipulação e gestão de dados). Sou proativo na busca por novas tecnologias e estou em aprendizado contínuo, pronto para aplicar o raciocínio analítico da Engenharia em desafios práticos de dados.
 
 ## Redes sociais
-
+nova edição 23/12
 [![LikeDin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linconl-pamponet-768905316) 
 
 
