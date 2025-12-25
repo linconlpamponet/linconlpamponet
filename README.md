@@ -10,7 +10,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     title="PYTHON" 
     width="30px" 
     style="padding-right: 10px;" 
-<a href="https://www.linkedin.com/in/SEU-USUARIO" target="_blank" rel="noopener noreferrer">
+<a href="https://www.linkedin.com/in/linconl-pamponet-768905316/" target="_blank" rel="noopener noreferrer">
   <img src="https://devicon-website.vercel.app/api/linkedin/original.svg" width="40" height="40" alt="LinkedIn">
 </a>
 
