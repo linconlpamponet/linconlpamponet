@@ -114,7 +114,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
           />
 
-<br></br>
+
 ##  Estatísticas
 <p>
   <img 
