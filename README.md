@@ -28,11 +28,11 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
 
 <img 
     align="left" 
-    alt="Spring"
-    title="Spring" 
+    alt="Google Cloud"
+    title="Google Cloud" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/spring/original.svg"
+   src="https://devicon-website.vercel.app/api/googlecloud/original.svg"
  />
     <img 
     align="left" 
@@ -44,8 +44,8 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
 />
     <img 
     align="left" 
-    alt="React"
-    title="React" 
+    alt="ReactNative"
+    title="ReactNative" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/react/original.svg"
