@@ -6,7 +6,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
 </a>
 
-## Habilidades
+## Conhecimentos
 <img 
     align="left" 
     alt="PYTHON"
