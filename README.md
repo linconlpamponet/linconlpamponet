@@ -16,7 +16,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-
+dvdf
 <img 
     align="left" 
     alt="SQL"
