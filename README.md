@@ -43,11 +43,11 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
 />
     <img 
     align="left" 
-    alt="ReactNative"
-    title="ReactNative" 
+    alt="Arduino"
+    title="Arduino" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/react/original.svg"
+    src="https://devicon-website.vercel.app/api/arduino/original-wordmark.svg"
 />
 <img 
     align="left" 
