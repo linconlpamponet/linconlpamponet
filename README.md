@@ -1,6 +1,6 @@
 ## Olá, Eu sou o Linconl Pamponet
 Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em princípios computacionais. Atualmente, estou focado em Ciência de Dados, aprofundando minhas habilidades em Python (para análise e modelagem) e SQL Server (para manipulação e gestão de dados). Sou proativo na busca por novas tecnologias e estou em aprendizado contínuo, pronto para aplicar o raciocínio analítico da Engenharia em desafios práticos de dados.
-
+ddfd
 ## Redes sociais
 <a href="https://www.linkedin.com/in/linconl-pamponet-768905316/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" alt="LinkedIn" />
