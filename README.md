@@ -49,14 +49,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/arduino/original.svg"
 />
-<img 
-    align="left" 
-    alt="Streamlit"
-    title="Streamlit" 
-    width="30px" 
-    style="padding-right: 50px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
-/>
+
 <br>
 <br>
 
