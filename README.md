@@ -61,15 +61,15 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
 
 <br>
 <br>
-
-   <img 
+<img 
     align="left" 
-    alt="Streamlit"
-    title="Streamlit" 
+    alt="GIT"
+    title="GIT" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
+
 
 <img 
     align="left" 
@@ -107,15 +107,14 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" 
  />
           
-
-<img 
+ <img 
     align="left" 
-    alt="GIT"
-    title="GIT" 
+    alt="Streamlit"
+    title="Streamlit" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
-          />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
+/>
 <br>
 <br>
 
