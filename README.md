@@ -54,7 +54,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     alt="Streamlit"
     title="Streamlit" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 50px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg"
 />
 <br>
