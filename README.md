@@ -58,7 +58,14 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
-
+<img 
+    align="left" 
+    alt="Pandas"
+    title="Pandas" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+ />
 <br>
 <br>
 
@@ -68,7 +75,7 @@ Sou estudante de Engenharia de Computação na UniFECAF, com uma base sólida em
     title="Pandas" 
     width="30px" 
     style="padding-right: 10px;" 
-     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg"
  />
 
  <img 
